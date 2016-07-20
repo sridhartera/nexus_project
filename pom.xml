@@ -17,7 +17,7 @@
  	</snapshotRepository>
  	<repository>
  		<id>nexus</id>
- 		<url>http://184.72.120.78:8081/nexus/content/repositories/releases/</url>
+ 		<url>http://localhost:8081/nexus/content/repositories/releases/</url>
  	</repository>
  </distributionManagement>
  
