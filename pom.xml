@@ -6,14 +6,14 @@
   <modelVersion>4.0.0</modelVersion>
   	<groupId>org.sonatype.mavenbook.multispring</groupId>
   	<artifactId>simple-parent</artifactId>
-  	<version>0.8.2</version>
+  	<version>0.8.3</version>
   <packaging>pom</packaging>
   <name>Multi-Spring Chapter Simple Parent Project</name>
  
  <distributionManagement>
  	<snapshotRepository>
  		<id>nexus</id>
- 		<url>http://184.72.120.78:8081/nexus/content/repositories/snapshots/</url>
+ 		<url>http://54.234.167.178:8081/nexus/content/repositories/snapshots/</url>
  	</snapshotRepository>
  	<repository>
  		<id>nexus</id>
